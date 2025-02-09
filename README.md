@@ -1,2 +1,2 @@
 # OS- MINI PROJECT
-This is an OS project also used
+This is an OS project also used as a 
