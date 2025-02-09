@@ -1,2 +1,2 @@
-# OS-PROJECT
+# OS- MINI PROJECT
 This is an OS project
