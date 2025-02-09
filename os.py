@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 import threading
 
+
 app = tk.Tk()
 app.title("Data Usage Analyzer")
 app.geometry("400x250")
