@@ -18,3 +18,6 @@ This is a **Python-based GUI application** that monitors CPU and memory usage fo
    ```sh
    git clone https://github.com/yourusername/data-usage-analyzer.git
    cd data-usage-analyzer
+![image](https://github.com/user-attachments/assets/2d1a2771-f4be-4b22-9739-52be05e033e2)
+![image](https://github.com/user-attachments/assets/be749f4c-1ecf-4a71-a706-64086b0e0af0)
+
